@@ -15,7 +15,8 @@ Achieve the highest F1 score on the test dataset (the score being calculated by 
 <ul> Grid Search with cross-validation</ul>
 <ul> PCA </ul>
 
-### Data visualization 
+### Data visualization
+
 <ul> Plotly </ul>
 <ul> Seaborn</ul>
 
